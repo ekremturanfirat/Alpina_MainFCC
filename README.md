@@ -16,8 +16,8 @@ You can download the Altium Designer files of the project from [here](https://gi
 You can download the Schematic files of the project from [here](https://github.com/ekremturanfirat/Alpina_MainFCC/tree/main/Schematic).
 
 ---
-### Schematic Files
-You can download the Schematic files of the project from [here](https://github.com/ekremturanfirat/Alpina_MainFCC/tree/main/Board)).
+### Board Files
+You can download the Board files of the project from [here](https://github.com/ekremturanfirat/Alpina_MainFCC/tree/main/Board)).
 
 ---
 ### BOM Files
