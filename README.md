@@ -17,7 +17,7 @@ You can download the Schematic files of the project from [here](https://github.c
 
 ---
 ### Board Files
-You can download the Board files of the project from [here](https://github.com/ekremturanfirat/Alpina_MainFCC/tree/main/Board)).
+You can download the Board files of the project from [here](https://github.com/ekremturanfirat/Alpina_MainFCC/tree/main/Board).
 
 ---
 ### BOM Files
