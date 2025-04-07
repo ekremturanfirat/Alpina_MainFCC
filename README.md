@@ -4,6 +4,9 @@ Rocket Flight Control Computer 14/02/2025
 This project is designed based on the specifications of TEKNOFEST 2025 Rocket Competitions A2(Medium Altitude). Please review the license terms of use via the license.txt document.
 
 ---
+![image](https://github.com/ekremturanfirat/Alpina_MainFCC/blob/main/Board/MainFCC_PCBBoardPerspektif.png)
+
+---
 ## Avionic Design Team Members
 I would like to thank _Ayçin Erbil, Ayşe Hazal Demirci, Büşra Yılmaz, Fatmanur Özen and Meryem Şen_, the avionics design members whose leadership I took on in the design of the card throughout the project.
 
