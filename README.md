@@ -8,7 +8,7 @@ This project is designed based on the specifications of TEKNOFEST 2025 Rocket Co
 
 ---
 ## Avionic Design Team Members
-I would like to thank _Ayçin Erbil, Ayşe Hazal Demirci, Büşra Yılmaz, Fatmanur Özen and Meryem Şen_, the avionics design members whose leadership I took on in the design of the card throughout the project.
+I would like to thank _Ayçin Erbil, Ayşe Hazal Demirci, Büşra Yılmaz, Fatmanur Özen and Meryem Şen_, the avionics design members whose leadership I took on in the design of the board throughout the project.
 
 ---
 ### Altium Designer Files
